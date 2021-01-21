@@ -1,4 +1,4 @@
-# C++ Lab A
+# Advanced Programming - Lab A
 
 This lab introduces you to some very basic elements of C++ programming. As you progress through this year, you’ll be learning a lot about the intricacies of the C++ programming language, that will hopefully prove invaluable both during your career (assuming you become a C++ developer) and also as technical background for the likely questions you’ll face in interviews.
 To assist you in remembering these intricacies you'll be using a Lab Book to record your observations and findings as you discover the language, solutions to common problems, and even how you solved a problematic bug.
@@ -157,7 +157,7 @@ Does the value of `x` affect the result?
 
 In the lectures we have looked at constructs and iterators.
 
-Below is some C# code that calculates the factorial of a number (see https://probabilityformula.org/factorial.html for details of a factorial).
+Below is some C# code that calculates the factorial of a number (see <https://probabilityformula.org/factorial.html> for details of a factorial).
 
 ```c#
 static void Main(string[] args)
@@ -176,14 +176,14 @@ static void Main(string[] args)
 
 Port the above C# code in to C++ using the provided Main.cpp file.
 
-#### [LAB BOOK - Add your C++ code to your lab book.  Then reflect on what you have to change (or not change) from C# to C++ in terms of the iteration]
+**[LAB BOOK - Add your C++ code to your lab book.  Then reflect on what you have to change (or not change) from C# to C++ in terms of the iteration]**
 
 ---
 
 ## Q6. Calculate Average using Iteration (while loop)
 
 Using a while loop (or do-while loop), calculate the average value of values provided by the user from the console (cin).
-You should caluate the average after the user either enters a negative number or the user enters a non-number value (e.g. a letter).
+You should calculate the average after the user either enters a negative number or the user enters a non-number value (e.g. a letter).
 
 The following C++ code will get an int value from the user.
 
@@ -193,6 +193,6 @@ int n = 0;
 cin >> n;
 ```
 
-#### [LAB BOOK - Add your C++ code to your lab book.  Then reflect on what you have learnt]
+**[LAB BOOK - Add your C++ code to your lab book.  Then reflect on what you have learnt]**
 
 ---
