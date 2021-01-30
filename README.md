@@ -157,7 +157,7 @@ Does the value of `x` affect the result?
 
 In the lectures we have looked at constructs and iterators.
 
-Below is some C# code that calculates the factorial of a number (see <https://probabilityformula.org/factorial.html> for details of a factorial).
+Below is some C# code that calculates the factorial of a number (see <https://www.mathsisfun.com/numbers/factorial.html> for details of a factorial).
 
 ```c#
 static void Main(string[] args)
