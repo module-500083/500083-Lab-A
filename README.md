@@ -202,3 +202,13 @@ cin >> n;
 **[LAB BOOK - Add your C++ code to your lab book.  Then reflect on what you have learnt]**
 
 ---
+
+## Q7. Copilot tutorial [Not required in Lab Book]
+
+Complete the short Copilot tutorial on the Microsoft Learn website, to gain an understanding of how to use Copilot for more than just writing code.
+
+<https://learn.microsoft.com/en-us/visualstudio/debugger/debug-with-copilot?view=vs-2022>
+
+Note:
+
+- The answers provided by Copilot can vary each time you use Copilot.
