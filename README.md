@@ -85,6 +85,8 @@ NB: You may want to select the **Temperature** project as the default project; t
 
 Also what happens if you dividing two integers?
 
+**[LAB BOOK - Add your C++ code to your lab book.  Then reflect on what you have learnt]**
+
 ---
 
 ## Clean up [Not required in Lab Book]
@@ -108,6 +110,8 @@ Using the “Hello World” program as a starting point, write a program that pr
 Hint:  Make use of the `sizeof()` operator, that returns the size of any data type.
 
 Remember to include both the `signed` and `unsigned` versions of each data type.
+
+**[LAB BOOK - Add your C++ code to your lab book.  Then reflect on what you have learnt]**
 
 ---
 
@@ -150,6 +154,8 @@ double z = x / y;
 
 How small does `y` have to be before you get a “divide by zero” error?
 Does the value of `x` affect the result?
+
+**[LAB BOOK - Add your C++ code to your lab book.  Then reflect on what you have learnt]**
 
 ---
 
