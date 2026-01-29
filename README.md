@@ -11,6 +11,8 @@ All the source code for this lab exercise is on the GIT
 
 An example of the Lab book can be found on the GIT within this Lab
 
+The lab book MUST USE markdown format
+
 ---
 
 ## Q1. Hello World
